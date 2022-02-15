@@ -1,0 +1,41 @@
+.question-container {
+  margin-top: 2rem;
+  width: 50%;
+  color: var(--white);
+}
+.question-score {
+  display: flex;
+  justify-content: space-between;
+}
+.question-score p {
+  color: var(--soft-blue);
+}
+.question-score p span {
+  color: var(--white);
+  font-weight: 600;
+}
+#question {
+  margin-top: 3rem;
+}
+.option-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+  margin-top: 4rem;
+}
+.option {
+  background-color: var(--card-bg-color);
+  width: 100%;
+  text-align: center;
+  padding: 1rem 0;
+  border-radius: 16px;
+  cursor: pointer;
+}
+.correct-option {
+  background-color: var(--success-color);
+}
+.wrong-option {
+  background-color: var(--danger-color);
+}
