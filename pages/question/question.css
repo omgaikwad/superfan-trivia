@@ -14,7 +14,7 @@
   color: var(--white);
   font-weight: 600;
 }
-#question {
+.question {
   margin-top: 3rem;
 }
 .option-container {
@@ -23,7 +23,7 @@
   align-items: center;
   justify-content: space-around;
   gap: 2rem;
-  margin-top: 4rem;
+  margin: 4rem 0;
 }
 .option {
   background-color: var(--card-bg-color);
