@@ -1,0 +1,11 @@
+.rules-container {
+  list-style-type: disc;
+  color: var(--white);
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 2rem;
+}

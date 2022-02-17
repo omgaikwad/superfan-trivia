@@ -39,3 +39,6 @@
 .wrong-option {
   background-color: var(--danger-color);
 }
+.rules-book a {
+  color: var(--white);
+}
