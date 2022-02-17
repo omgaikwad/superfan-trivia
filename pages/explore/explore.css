@@ -1,0 +1,15 @@
+.category-title {
+  color: var(--soft-blue);
+}
+.category-description {
+  margin-top: 2rem;
+  color: var(--cyan);
+}
+.category-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 1rem;
+}
