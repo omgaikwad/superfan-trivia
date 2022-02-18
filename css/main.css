@@ -40,7 +40,7 @@ body {
   align-items: center;
   gap: 8px;
 }
-#trivia-card {
+.trivia-card {
   background-color: var(--card-bg-color);
   height: 25rem;
   width: 22rem;
