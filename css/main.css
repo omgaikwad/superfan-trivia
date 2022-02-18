@@ -16,6 +16,9 @@ body {
 #main-title-link {
   text-decoration: none;
 }
+#main-title-link h1:hover {
+  color: var(--cyan);
+}
 .main-body {
   width: 100%;
 }
@@ -37,7 +40,7 @@ body {
   align-items: center;
   gap: 8px;
 }
-#trivia-card {
+.trivia-card {
   background-color: var(--card-bg-color);
   height: 25rem;
   width: 22rem;
@@ -72,4 +75,16 @@ body {
 .card-footer p {
   font-size: 12px;
   color: var(--white);
+}
+.main-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+.footer-credit {
+  color: var(--white);
+}
+.footer-credit:hover {
+  color: var(--cyan);
 }

@@ -39,6 +39,10 @@
 .wrong-option {
   background-color: var(--danger-color);
 }
-.rules-book a {
+
+.navigation-container a {
   color: var(--white);
+}
+.navigation-container a:hover {
+  color: var(--soft-blue);
 }
