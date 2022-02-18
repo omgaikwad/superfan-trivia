@@ -1,7 +1,7 @@
 .rules-container {
   list-style-type: disc;
   color: var(--white);
-  width: 35%;
+  width: fit-content;
   display: flex;
   flex-direction: column;
   justify-content: center;

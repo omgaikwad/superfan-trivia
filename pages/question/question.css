@@ -46,3 +46,26 @@
 .navigation-container a:hover {
   color: var(--soft-blue);
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 1280px) {
+  .question-container {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .question-container {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .question-container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+}
