@@ -4,9 +4,9 @@
 
 SuperFan Trivia is a fun way to know if you are superfan of your favourite TV Shows.
 
-## Demo
+## Live Project GIFs
 
-Insert gif or link to demo
+![](./assets/project-gif/superfanTriviaScreenRecording.gif)
 
 ## Live Project Link
 
